@@ -1,6 +1,13 @@
+
+
+SPECIAL THANKS TO DAVE GRAY FOR HELPING ME
+
 # "Git Tutorial for Absolute Beginners"
 
 ---
+
+
+
 
 ### Author Links
 
